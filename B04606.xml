@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old mans life renewed by heavenly providence. or, A strange (yet true) relation of one Mr. Macklian [sic], a man of an hundred &amp; sixteen years old who when he was about the age of fourscore years old, his strength failed him, and his eye-sight grew dim; he was likewise deaf of hearing, and feeble of speech, but now of late the Lord hath shown such a miracle upon him, that he is now become as a young man again; for his hearing and speech is come perfectly to him, and his eye-sight is so good that he can write or read the smallest point that is, without spectacles[, h]is teeth which were decayed and rotten out of his head, there are new ones come in their places: and having lost the old hair from off his head, there is now fine young tender hair growing upon the same, like the hair of a child of two years old. All these strange wonders, are to be seen upon the gentleman, whose name is Mr. John Macklain, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04606</idno>
+            <idno type="STC">Wing O206AA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[548]</idno>
+            <idno type="EEBO-CITATION">99884573</idno>
+            <idno type="PROQUEST">ocm99884573</idno>
+            <idno type="VID">183209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183209)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[293])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old mans life renewed by heavenly providence. or, A strange (yet true) relation of one Mr. Macklian [sic], a man of an hundred &amp; sixteen years old who when he was about the age of fourscore years old, his strength failed him, and his eye-sight grew dim; he was likewise deaf of hearing, and feeble of speech, but now of late the Lord hath shown such a miracle upon him, that he is now become as a young man again; for his hearing and speech is come perfectly to him, and his eye-sight is so good that he can write or read the smallest point that is, without spectacles[, h]is teeth which were decayed and rotten out of his head, there are new ones come in their places: and having lost the old hair from off his head, there is now fine young tender hair growing upon the same, like the hair of a child of two years old. All these strange wonders, are to be seen upon the gentleman, whose name is Mr. John Macklain, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "The Lord that rules both heaven and earth ..."</note>
+                  <note>Imperfect: torn; all after line 32 lacking.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad_fragment">
+            <pb n="548" facs="tcp:183209:1"/>
+            <head>The old mans life renewed by Heavenly providence. OR,</head>
+            <argument>
+               <p>A ſtrange (yet true) relation of one Mr. Macklian, a man of an hundred &amp; ſixteen years old who when he was about the age of fourſcore years old, his ſtrength failed him, and his eye-ſight grew dim; he was likewiſe deaf of hearing, and feeble of ſpeech, but now of late the Lord hath ſhown ſuch a miracle upon him, that he is now become as a young man again; for his hearing and ſpeech is come perfectly to him, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is eye-ſight is ſo good that can write or read the ſmalleſt print that is, without Spectacles <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is teeth which were decayed and rotten out of his head, there are new ones come in their places: and haveing loſt the old hair from off his head, there is now fine young tender hair growing upon the ſame, like the hair of a Child of two years old. All theſe ſtrange Wonders are to be ſeen upon the Gentleman, whoſe name is Mr. John Macklain, dwelling and living (ſo long as Gods pleaſure is) in Northum<g ref="char:EOLhyphen"/>berland, in the Town of Lesbury, he being the Parſon and Miniſter of the Pariſh preach<g ref="char:EOLhyphen"/>eth two Sermons every Sabbath day, where many hundreds of people comes far and near to hear him Preach and to ſee the wonders of the Lord.</p>
+            </argument>
+            <l>The Lord that rules both heaven and earth</l>
+            <l>with his Almighty powerful hand</l>
+            <l>Hath many ſtrange examples ſent</l>
+            <l>unto the people of England:</l>
+            <l>But never the like of this before</l>
+            <l>was known or ſeen of any man,</l>
+            <l>In thoſe ſame parts wherein we live,</l>
+            <l>ſince firſt of all the world began.</l>
+            <l>Therefore with patience now give ear,</l>
+            <l>and hearken to the matter well:</l>
+            <l>The truth, and nothing but the truth,</l>
+            <l>I am prepared for to tell.</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lesbury in Nor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>humberland</l>
+            <l>one Maſter Macklain dwelling there,</l>
+            <l>He parſon of the Pariſh was,</l>
+            <l>and well beloved far and near:</l>
+            <l>A hundred and ſixteen years of Age,</l>
+            <l>this Miniſter is known to be,</l>
+            <l>Whoſe eyes through age were grown ſo dim</l>
+            <l>that he at all could hardly ſee,</l>
+            <l>His Legs and Ioynts ſo feeble were,</l>
+            <l>that he could hardly ſtand or go,</l>
+            <l>His ſtrength and hearing was decay'd</l>
+            <l>ſo was his tongue and ſpeech alſo.</l>
+            <l>But ſtill he did the beſt he could,</l>
+            <l>among his Pariſhoners to preach,</l>
+            <l>Being well known in former time,</l>
+            <l>the way of godl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe to teach,</l>
+            <l>Yet ſome that ſpightful neighbours were,</l>
+            <l>which then were dwelling there about,</l>
+            <l>Did uſe all means that they could do,</l>
+            <l>by violence for to turn him out</l>
+            <l>And ſaid becauſe he <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>there Miniſter he <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>The reaſon why, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>nor could <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>But <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>My friend and kindred are decay'd,</l>
+            <l>my wife and children dead and gone,</l>
+            <l>No one have I to take my part,</l>
+            <l>but only Chriſt my Lord alone.</l>
+            <l>Therefore if't be thy will, O Lord,</l>
+            <l>out of this world me for to take,</l>
+            <l>Or elſe to ſend me ſome relief,</l>
+            <l>even for thine own ſweet mercies ſake.</l>
+            <l>Now mark the wonders of the Lord,</l>
+            <l>what miracles were brought to paſſe</l>
+            <l>Upon that aged Miniſter,</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I will tell you how it was.</l>
+            <l>The miracles are only theſe,</l>
+            <l>that God in mercy hath reſtor'd,</l>
+            <l>Him to his former ſtrength again,</l>
+            <l>an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comfort doth to him afford.</l>
+            <l>His age ſeems now to be renew'd,</l>
+            <l>as to the world it may appear,</l>
+            <l>Though he before was almoſt dead,</l>
+            <l>he now can very well ſpeak or hear:</l>
+            <l>His <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes that were ſo duſk and dim,</l>
+            <l>an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo ſunk into his head,</l>
+            <l>Are now ſo quick and lively grown,</l>
+            <l>that without ſpectacles he can read,</l>
+            <l>And <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince his teeth were rotten out,</l>
+            <l>there new ones come in the old ones place</l>
+            <l>His b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ows, and chéeks are fat and fair,</l>
+            <l>wrinkls worn out of his face,</l>
+            <l>And to be brief the limbs of his,</l>
+            <l>are every one reviv'd again,</l>
+            <l>Fro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> head to foot from top to toe</l>
+            <l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the world appeareth pl<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </l>
+            <l>An<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow he do <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+         </div>
+         <div type="index">
+            <pb n="549" facs="tcp:183209:1"/>
+            <head>INDEX TO VOLUME THE FIRST.</head>
+            <list>
+               <head>A</head>
+               <item ana="#role_LABEL">Page</item>
+               <item>ACCEPT, dear love, theſe ſhadows of my grief 432</item>
+               <item>A lark ſome time did breed 464</item>
+               <item>All in a May morning, in the merry month of May 448</item>
+               <item>All youthful Virgins, to this ſong give eare 430</item>
+               <item>All hayle to the dayes 24</item>
+               <item>Although I am a country laſſe, a lofti mind I bear a 52</item>
+               <item>All you that cry O hone O hone 101</item>
+               <item>All in a morning fair, as I rode to take the aire 120</item>
+               <item>All you that cry O hone O hone 185</item>
+               <item>All you that merry lives do lead 210</item>
+               <item>All you that fathers be, look on my miſery 276</item>
+               <item>Alas I am in love and cannot ſpeak it 290</item>
+               <item>All you that fathers be 331</item>
+               <item>All you that are to mirth inclined 374</item>
+               <item>Among the Nine all nymphes divine 194</item>
+               <item>A noble Marqueſſe, as he did ride a hunting 302</item>
+               <item>Amyntas on a ſummer day 415</item>
+               <item>A poore ſoule ſate ſighing by a ſycamore tree 54</item>
+               <item>A poore Eſſex man that was in great diſtreſs 286</item>
+               <item>A rich merchant man that was both grave and wiſe 104</item>
+               <item>As I came thorow the north country 1</item>
+               <item>As I walk'd forth of late 12</item>
+               <item>As I lay muſing all alone 44</item>
+               <item>As I went forth one ſummers day 84</item>
+               <item>As I went through the meddowes greene 98</item>
+               <item>As I was walking all alone 196</item>
+               <item>As I lay muſing all alone 326</item>
+               <item>As I went through the north country 343</item>
+               <item>As I lay ſlumbering in my bed one night 376</item>
+               <item>As't was my chance to walke abroad 413</item>
+               <item>As Phebus in the luſtrious aire 416</item>
+               <item>Attend my maſters and liſten well 30</item>
+               <item>A thouſand times my love commend 90</item>
+               <item>As't was my chance to walke abroad 349</item>
+               <item>Attend my maſters and give eare 404</item>
+               <item>Attend you lovers and give eare 428</item>
+               <item>Audience, audience, gallants all 476</item>
+               <item>Awake from ſin, vain man, awake 134</item>
+               <item>A wedding hay, a wedding hoe 348</item>
+               <item>A young man lately wedded was 96</item>
+               <item>Ay me not too hie in things above thy reach 106</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Bacchus, the father of drunken ſowls 298</item>
+               <item>Behold the touchſtone of true love 278</item>
+               <item>Behold O Lord a ſinner in diſtreſſe 136</item>
+               <item>Be merry my friends, and liſt a while 138</item>
+               <item>Be merry my hearts, and call for your quarts 150</item>
+               <item>Behold the touchſtone of true love 232</item>
+               <item>Both young men, maids, and lads 344</item>
+               <item>Breake heart and die, I may no longer live 82</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Chriſtmas is my name, farre have I gone 48</item>
+               <item>Come my beſt and deareſt 4</item>
+               <item>Come hither the merri'ſt of all the Nine 20</item>
+               <item>Come batchelors, and maried men 28</item>
+               <item>Come, come my brave gold 40</item>
+               <item>Come neighbours follow me 46</item>
+               <item>Come mourn, come mourn with me, ye loyall lovers all 59</item>
+               <item>Come Joane, by thy own deareſt huſband ſit down 82</item>
+               <item>Content thyſelf my love, and doe not dye 83</item>
+               <item>Come all you young pupils, that yet have no ſkill 142</item>
+               <item>Come you luſty northerne lads 186</item>
+               <item>Come love, let's walk into the ſpring 198</item>
+               <item>Come, and do not muſing ſtand 214</item>
+               <item>Come hither good fellows, come hither 286</item>
+               <item>Complain my lute, complain on him 316</item>
+               <item>Come gentlemen all, and liſten a while 362</item>
+               <item>Come little babe, come ſilly ſoul 387</item>
+               <item>Come follow, follow me 408</item>
+               <item>Come, come my dear that art ſo pretty 438</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>Diogenes that laugh'd to ſee 154</item>
+               <item>Diana and her darlings dear 386</item>
+               <item>Down in a garden ſits my deareſt love 243</item>
+               <item>Draw neare you countrey girles 384</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>Fair Angel of England, thy beauty moſt bright 58</item>
+               <item>Faireſt miſtreſs ceaſe your moane 156</item>
+               <item>Farewell, farewell my deareſt deare 318</item>
+               <item>Farre in the north country (as I have heard tell) 354</item>
+               <item>Fie upon love, fond love, falſe love 192</item>
+               <item>Fond love why doſt thou dally 126</item>
+               <item>Forth from my ſad and darkſome cell 299</item>
+               <item>From Oberon in fairy land 230</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>Give ear my loving countreymen 340</item>
+               <item>Good morrow old father Starket 146</item>
+               <item>Good morrow neighbour Gamble 262</item>
+               <item>Gold tane from the Kings harbingers 356</item>
+               <item>Good children refuſe not theſe leſſons to learn 402</item>
+               <item>Good your worſhip caſt your eyes 474</item>
+               <item>Good your worſhip caſt your eyes 478</item>
+               <item>Grieve no more ſweet huſband, to grieve it is in vaine 39</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Hang ſorrow, let's caſt away care 170</item>
+               <item>Harke, harke, methinks I hear one ſpeak 281</item>
+               <item>Hark, hark, methinks I heare one ſpeake 348</item>
+               <item>Harke, harke, methinks I hear one ſpeak 412</item>
+               <item>Here is preſented clearly to the eye 132</item>
+               <item>Henry, our Royal King, would ride a hunting 178</item>
+               <item>Henry, our Royal King, would ride a hunting 228</item>
+               <item>How ſhall we, good huſband, now live this hard yeare 38</item>
+               <item>Heard you not lately of a man 264</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>I am a faire maid, if my glaſſe doe not flatter 452</item>
+               <item>I am a woman poor and blind 8</item>
+               <item>I am a luſty beggar and live by others giving 42</item>
+               <item>I am a young woman and fain I would have 240</item>
+               <item>I am a poore man God knows 352</item>
+               <item>I am a priſoner poore 367</item>
+               <item>If there were employments for men as have been 34</item>
+               <item>If any are infected, give audience a while 76</item>
+               <item>If death would come and ſhew his face 92</item>
+               <item>If any ſtanders by that leads a ſingle life 152</item>
+               <item>If Roſamond that was ſo fair 162</item>
+               <item>If all the world and love were young 205</item>
+               <item>If any man or woman in country and in city 334</item>
+               <item>I have an hoſteſſe pretty 172</item>
+               <item>I have for all good wives a ſong 266</item>
+               <item>I have a love ſo faire 322</item>
+               <item>I'le tell you a jeſt which you'l hardly beleive 18</item>
+               <item>Imprimis when men doe beginne 164</item>
+               <item>In that faire fragrant month of May 56</item>
+               <item>In the gallant month of June 86</item>
+               <item>In the days of old when fair France did flouriſh 102</item>
+               <item>In ſummer time, when folks make hay 112</item>
+               <item>In ſummer time, when leaves grew green 176</item>
+               <item>In Rome a nobleman did wed 220</item>
+               <item>In ſearching famous Chronicles 226</item>
+               <item>In ſearching ancient Chronicles 300</item>
+               <item>In times of yore ſure men did doate 314</item>
+               <item>In Ninivie old Toby dwelt 420</item>
+               <item>In London dwelt a marchant man 447</item>
+               <item>Joy to the perſon of my love 224</item>
+               <item>I reade in ancient times of yore 252</item>
+               <item>It was a ladies daughter 9</item>
+               <item>It was a blind beggar that long loſt his ſight 10</item>
+               <item>It is an old ſaying that few words are beſt 36</item>
+               <item>It was my chance not long time ſince 16</item>
+               <item>It was an old man and his poor wife 332</item>
+               <item>It was a brave ſoldier that long liv'd in warres 370</item>
+               <item>Jury came to Jeruſalem 394</item>
+               <item>It was a worthy Lord of Lorn 212</item>
+               <item>I wander up and downe 317</item>
+               <item>I wiſh for no mans riches 660</item>
+               <item>I was a Scotchman, a Scotchman lewd of life 470</item>
+               <item>I will perſwade him thus and ſay 480</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>Kind couzen David prithee ſtay 274</item>
+               <item>Kind gentlemen will you be patient a while 360</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>Late in the morning as I abroad was walking 218</item>
+               <item>Lament your ſinne, good people all lament 78</item>
+               <item>Like to a dove cote never haunted 208</item>
+               <item>Live with me and be my love 205</item>
+               <item>Long have I liv'd a batchelors life 380</item>
+               <item>Loving mortall in love I here exhort all 415</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Mas Mault he is a gentleman 342</item>
+               <item>Muſt the abſence of my miſtreſſe 320</item>
+               <item>My children dear well mark my words 144</item>
+               <item>My mother's a good old woman 294</item>
+               <item>My bleeding heart with grief and care 442</item>
+               <item>My maſters all give eare a while 458</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
